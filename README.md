@@ -12,10 +12,9 @@ EPK (extension package) files are zip files. In the archive is a .conf file that
 .conf file structure
 ~~~~~~~~~~~~~~~~~~~~
 
-
-`[info]
+[info]
 name: Extension name
 version: 0.1.33.7
 author: Technoboy10
 [dependencies]
-dependencies: this, that, other`
+dependencies: this, that, other
